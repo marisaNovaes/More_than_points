@@ -8,7 +8,7 @@ This repository contains the script and occurrence data used in the analyses pre
 
 2 - Datasets used in the analyses, available in CSV and GeoTIFF formats.
 
-    The scripts are based on the methods described in the article and are designed to be run sequentially.
+-> The scripts are based on the methods described in the article and are designed to be run sequentially.
 
 
 ![alt text](map-1.png)
